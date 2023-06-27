@@ -6,7 +6,9 @@ Chat app designed using django and ajax.
 
 2.clone the repo using git clone https://github.com/uday30049/chat.git
 
-3.Run the project using command python manage.py runserver
+3.Move to the djangochat folder using cd djangochat
+
+4.Run the project using command python manage.py runserver
 
 Screenshots:
 
