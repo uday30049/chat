@@ -18,10 +18,14 @@ Login page:
 
 ![image](https://github.com/uday30049/chat/assets/112474023/56c3d49a-38cd-4491-b437-8999e750f254)
 
-
 Messaging:
 
 ![image](https://github.com/uday30049/chat/assets/112474023/d4b2bbc6-29b5-47f1-8ee9-8928864a1c73)
+
+Real-time chatting:
+
+![image](https://github.com/uday30049/chat/assets/112474023/1d922713-e319-49af-87da-f772e6aeb036)
+
 
 
 
